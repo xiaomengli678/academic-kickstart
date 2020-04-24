@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Amazon.com, Inc."
   company_url = "https://www.amazon.com/"
   location = "Texas"
-  date_start = "July 2020"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * 
   *
   """
-  
+
 [[experience]]
   title = "CEO"
   company = "GenCoin"
