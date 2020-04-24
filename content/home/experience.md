@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2020-07-13"
   date_end = ""
   description = """
-  Responsibilities include:
+  <!-- Responsibilities include:
   
   * 
   * 
-  *
+  * -->
   """
 
 
