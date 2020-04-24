@@ -18,12 +18,14 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = "80%"
   
   
 [[feature]]
   icon = "java"
   icon_pack = "fas"
   name = "Java"
+  description = "60%"
   
   
 <!-- [[feature]]
