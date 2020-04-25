@@ -18,20 +18,38 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = ""
   
   
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "60%"
+  description = ""
   
   
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "30%"
+  description = ""
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Django / PHP"
+  description = ""
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MongoDB / MySQL"
+  description = ""
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Keras / TensorFlow"
+  description = ""
 
 +++
