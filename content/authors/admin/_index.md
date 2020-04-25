@@ -69,4 +69,4 @@ user_groups:
 - Engineers
 ---
 
-Xiaomeng is an incoming software developer to Amazon.
+Xiaomeng is an incoming software development engineer to Amazon.
