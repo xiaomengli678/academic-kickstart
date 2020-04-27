@@ -30,7 +30,7 @@ education:
   - course: MS in Computer Science
     institution: University of New Mexico
     year: 2020
-  - course: MSE in Structural Engineering
+  - course: MSE in Civil and Systems Engineering
     institution: Johns Hopkins University
     year: 2017
   - course: BSc in Water Supply and Sewerage Engineering
