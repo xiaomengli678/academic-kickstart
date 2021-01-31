@@ -21,15 +21,18 @@ date_format = "Jan 2006"
   title = "Software Development Engineer"
   company = "Amazon.com, Inc."
   company_url = "https://www.amazon.com/"
-  location = "Texas"
+  location = "Austin, Texas, United States"
   date_start = "2020-07-13"
   date_end = ""
   description = """
-  <!-- Responsibilities include:
+  Work on the Business Web Services (BWS) team of Amazon Business Org
   
-  * 
-  * 
-  * -->
+  * Wrote Unit tests and Integration tests for API to make pipeline fully continuous delivery (CD).
+  * Studied, implemented and tested new features for API in Spring Framework.
+  * Created Low-level design for new services such as their Cache management and how to connect them to other APIs using interaction diagrams.
+  * Used AWS Kinesis, Simple Storage Service(S3) and Redshift to store and transfer Team’s API
+  requests from AWS CloudWatch, which provides a better practice for API’s maintenance.
+  * Added AWS Key Management Service(KMS) for encrypting API's encryption log fields and configured KMS through logs compressing, encrypting, decrypting, decompressing.
   """
 
 
@@ -37,11 +40,11 @@ date_format = "Jan 2006"
   title = "Machine Learning Intern"
   company = "Electronic Arts Inc.(EA)"
   company_url = "https://www.ea.com/"
-  location = "Texas"
+  location = "Austin, Texas, United States"
   date_start = "2019-05-27"
   date_end = "2019-08-16"
   description = """
-  Responsibilities include:
+  Work on the customer experience IT team
   
   * Translated EA customer and service agent conversation audio ﬁles into text using AWS S3’s Transcribe function in Python. Designed protocols to divide the text into different channels.
   * Applied NLP model Bert from Google with GPU on AWS EC2 to do sentiment analysis using customer’s data as well as IMDB movie review data and achieved 86% accuracy in testing.
@@ -53,11 +56,11 @@ date_format = "Jan 2006"
   title = "Applied Machine Learning Research Intern"
   company = "Los Alamos National Laboratory (LANL)"
   company_url = "https://www.lanl.gov/"
-  location = "New Mexico"
+  location = "Los Alamos, New Mexico, United States"
   date_start = "2018-05-28"
   date_end = "2018-08-03"
   description = """
-  Responsibilities include:
+  Machine learning solutions to revealing the hidden seismicity of Mars
   
   * Applied Fingerprinting to preprocess the Marsquake waveform data and transferred the Fingerprinting results into both Sequence and Image, two perspectives in Deep Learning.
   * Built a Convolutional Recurrent Neural Network (CRNN) with Keras and TensorFlow incorporating both CNN and LSTM. Adjusted the parameters and structure in CRNN to improve model’s performance in ﬁnding the waveform where Marsquake events happen. Used time window to separate time-history waveform in order to get training data. Evaluated the model with 10-fold cross-validation and observed the results using confusion matrices.
@@ -67,7 +70,7 @@ date_format = "Jan 2006"
   title = "Research/Teaching Assistant"
   company = "University of New Mexico"
   company_url = "https://www.unm.edu/"
-  location = "New Mexico"
+  location = "Albuquerque, New Mexico, United States"
   date_start = "2017-06-01"
   date_end = "2018-04-30"
   description = """
