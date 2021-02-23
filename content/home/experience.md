@@ -27,12 +27,11 @@ date_format = "Jan 2006"
   description = """
   Work on the Business Web Services (BWS) team of Amazon Business Org
   
-  * Wrote Unit tests and Integration tests for API to make pipeline fully continuous delivery (CD).
-  * Studied, implemented and tested new features for API in Spring Framework.
-  * Created Low-level design for new services such as their Cache management and how to connect them to other APIs using interaction diagrams.
-  * Used AWS Kinesis, Simple Storage Service(S3) and Redshift to store and transfer Team’s API
-  requests from AWS CloudWatch, which provides a better practice for API’s maintenance.
-  * Added AWS Key Management Service(KMS) for encrypting API's encryption log fields and configured KMS through logs compressing, encrypting, decrypting, decompressing.
+  * Wrote Unit tests to improve team service's code coverage and Integration tests for API to make pipeline fully continuous delivery (CD).
+  * Studied, implemented and tested new features for API end to end development in Spring Framework.
+  *Created Low-level design for team's current service such as how to direct them to call other APIs, how to use the data from other APIs to serve the current service functionalities and what to set up to prepare for the case where other APIs are down through interaction diagrams.
+  * Used AWS Kinesis, Simple Storage Service(S3) and Redshift to store and transfer Team’s API requests from AWS CloudWatch, which provides a better practice for API’s maintenance.
+  * Added AWS Key Management Service(KMS) to team's different services and published the logs to a same library, which provides a good management environment for different services. KMS was used for encrypting API's encryption log fields and configured through logs compressing, encrypting, decrypting, decompressing.
   """
 
 

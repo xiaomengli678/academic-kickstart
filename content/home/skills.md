@@ -27,17 +27,16 @@ subtitle = ""
   name = "Java"
   description = ""
   
-  
 [[feature]]
-  icon = "js"
-  icon_pack = "fab"
-  name = "JavaScript"
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Django"
   description = ""
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Django / PHP"
+  name = "Spring"
   description = ""
 
 [[feature]]
@@ -47,9 +46,8 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Keras / TensorFlow"
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
   description = ""
-
 +++
