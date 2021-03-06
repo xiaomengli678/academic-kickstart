@@ -48,6 +48,6 @@ subtitle = ""
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
-  name = "AWS"
+  name = "Amazon Web Services"
   description = ""
 +++
